@@ -1,0 +1,5 @@
+3. The > stored the list of directories found in the lab-01 file to be copied into the newfile.txt that I just created.
+
+5. After running git status, it says that newfile.txt is staged and wants to unstage it.
+
+6. This command opens newfile.txt and presents all of its contents including text and files.
